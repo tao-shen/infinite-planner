@@ -13,14 +13,14 @@ const blocks = [
     //    as below (number of characters between dashes:
     //    8-4-4-4-12)
     // 2. Inspecting network requests in the DevTools
-    id: 'xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx',
+    id: '677e2fe7-b0ea-40ed-8a9e-2e05103abeb7',
     // Find the space ID associated with a block by running this
     // in the DevTools Console while on the page you want to
     // export:
     // ```
     // $('img[src*="spaceId="]').src.replace(/^.+&spaceId=([^&]+)&.+$/, '$1')
     // ```
-    spaceId: 'xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx',
+    spaceId: 'https://www.notion.so/677e2fe7b0ea40ed8a9e2e05103abeb7?',
     // Choose a directory name for your export to appear in the
     // `exports` folder
     dirName: 'notion-page-a',
